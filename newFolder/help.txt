@@ -1,0 +1,1 @@
+This is just a help file from the Git Training
